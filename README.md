@@ -1,5 +1,4 @@
-# myApp
-## Script som sorterar filer
+# Script som sorterar filer
 
 Genom att köra scriptet sorteras filerna ut ifrån källmappen till de olika målmapparna beroende på filtyp.
 
