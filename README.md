@@ -1,7 +1,15 @@
-# Script som sorterar filer
+# File Moving Script
 
-Genom att köra scriptet sorteras filerna ut ifrån källmappen till de olika målmapparna beroende på filtyp.
+This is a Node.js script designed to move files from a source folder to different target folders based on file type.
 
-**Detta script är anpassat för MINA källmappar, för egen användning ändra rad 3 och 5,6,7.**
+## Usage
+
+1. Ensure you have Node.js installed.
+
+2. Copy the code and modify the paths in `sourceFolder` and `targetFolders` to your own directories.
+
+3. Run the script using `node your-script-file.js`.
+
+That's all you need to know to use the script.
 
 ![dator](dator.jpg)
