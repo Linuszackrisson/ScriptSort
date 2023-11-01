@@ -8,7 +8,7 @@ This is a Node.js script designed to move files from a source folder to differen
 
 2. Copy the code and modify the paths in `sourceFolder` and `targetFolders` to your own directories.
 
-3. Run the script using `flytta_filer.js`.
+3. Run the script using `node flytta_filer.js`.
 
 
 ![dator](dator.jpg)
